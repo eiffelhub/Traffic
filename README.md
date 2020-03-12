@@ -53,7 +53,7 @@ Examples
 
 ## Map Browser
 
-Map browser
+![Map browser](images/traffic4_browser.png)
 
 Map Browser is a graphical application that allows you to browse a city map. It loads a city description from an xml file and displays its map on the screen. A user can:
 
