@@ -1,0 +1,13 @@
+Library:
+
+- Support user-defined objects (at least mobiles)
+- Passengers, tickets, time, date?
+- Background and water
+
+Map browser:
+
+- Opening map files
+
+Known bugs:
+
+- Crashes when finalized
